@@ -1,1 +1,1 @@
-PSPP Wekk 1-10 Exercises
+PSPP Week 1-10 Exercises
